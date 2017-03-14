@@ -6,6 +6,7 @@
 </head>
 <body>
 <h1>Madlibs</h1>
+
 <?php
 
 ?>
