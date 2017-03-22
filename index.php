@@ -1,3 +1,7 @@
+<?php
+
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,11 +9,18 @@
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
-<h1>Madlibs</h1>
+<h1 id="title">Madlibs</h1>
+<nav>
+<li></li>
+<li></li>
+<li></li>
+</nav>
 
-<?php
-
-?>
+	<form action="" method="" name="">
+		<input type="" name="">
+		<input type="" name="">
+		<input type="" name="">
+	</form>
 
 </body>
 </html>
